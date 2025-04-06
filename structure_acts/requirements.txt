@@ -1,0 +1,5 @@
+tqdm
+requests
+notebook
+transformers
+huggingface_hub
