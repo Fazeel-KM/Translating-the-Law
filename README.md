@@ -45,8 +45,3 @@ Suggested order of use:
 
 Refer to the `requirements.txt` files inside each folder for module-specific dependencies.
 
----
-
-## License
-
-[Insert license information here, if applicable.]
